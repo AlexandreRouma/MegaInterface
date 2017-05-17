@@ -194,6 +194,7 @@ void loop() {
   }
 }
 
+/* ---------------------------------- DEBUGGING PURPOSES ---------------------------------- */
 void blink() {
   pinMode(13, OUTPUT);
   digitalWrite(13, 1);
@@ -209,4 +210,4 @@ void blink() {
   digitalWrite(13, 0);
   delay(1000);
 }
-
+/* ---------------------------------- DEBUGGING PURPOSES ---------------------------------- */
