@@ -23,3 +23,11 @@ D:\Documents\GitHub\MegaInterface\MegaInterface-TESTER\obj\Debug\MegaInterface-T
 D:\Documents\GitHub\MegaInterface\Program\MegaInterface-TESTER\bin\Debug\MegaInterface-TESTER.exe.config
 D:\Documents\GitHub\MegaInterface\Program\MegaInterface-TESTER\obj\Debug\MegaInterface-TESTER.exe
 D:\Documents\GitHub\MegaInterface\Program\MegaInterface-TESTER\obj\Debug\MegaInterface-TESTER.pdb
+D:\Documents\GitHub\MegaInterface\Program\MegaInterface-TESTER\bin\Debug\MegaInterface-TESTER.exe
+D:\Documents\GitHub\MegaInterface\Program\MegaInterface-TESTER\bin\Debug\MegaInterface-TESTER.pdb
+D:\Documents\GitHub\MegaInterface\Program\MegaInterface-TESTER\bin\Debug\MegaInterface.dll
+D:\Documents\GitHub\MegaInterface\Program\MegaInterface-TESTER\bin\Debug\MegaInterface.pdb
+D:\Documents\GitHub\MegaInterface\Program\MegaInterface-TESTER\obj\Debug\MegaInterface-TESTER.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\MegaInterface\Program\MegaInterface-TESTER\obj\Debug\MegaInterface_TESTER.Form1.resources
+D:\Documents\GitHub\MegaInterface\Program\MegaInterface-TESTER\obj\Debug\MegaInterface_TESTER.Properties.Resources.resources
+D:\Documents\GitHub\MegaInterface\Program\MegaInterface-TESTER\obj\Debug\MegaInterface-TESTER.csproj.GenerateResource.Cache
