@@ -937,9 +937,9 @@
             this.label21.AutoSize = true;
             this.label21.Location = new System.Drawing.Point(130, 24);
             this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(45, 13);
+            this.label21.Size = new System.Drawing.Size(48, 13);
             this.label21.TabIndex = 13;
-            this.label21.Text = "Address";
+            this.label21.Text = "Address:";
             // 
             // button18
             // 
