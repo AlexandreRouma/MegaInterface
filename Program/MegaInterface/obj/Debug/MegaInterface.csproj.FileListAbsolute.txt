@@ -3,3 +3,8 @@ d:\documents\visual studio 2012\Projects\MegaInterface\MegaInterface\bin\Debug\M
 d:\documents\visual studio 2012\Projects\MegaInterface\MegaInterface\obj\Debug\MegaInterface.dll
 d:\documents\visual studio 2012\Projects\MegaInterface\MegaInterface\obj\Debug\MegaInterface.pdb
 d:\documents\visual studio 2012\Projects\MegaInterface\MegaInterface\obj\Debug\MegaInterface.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\MegaInterface\Program\MegaInterface\bin\Debug\MegaInterface.dll
+D:\Documents\GitHub\MegaInterface\Program\MegaInterface\bin\Debug\MegaInterface.pdb
+D:\Documents\GitHub\MegaInterface\Program\MegaInterface\obj\Debug\MegaInterface.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\MegaInterface\Program\MegaInterface\obj\Debug\MegaInterface.dll
+D:\Documents\GitHub\MegaInterface\Program\MegaInterface\obj\Debug\MegaInterface.pdb
